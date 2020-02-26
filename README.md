@@ -4,6 +4,8 @@ Thank you for taking the time to review my challenge.
 
 The script is located in the index.js file. 
 
+The prompt is on a word file in the `challenge_rules` directory.
+
 ### Getting Started
 1. Install dependecies locally with `npm install` in your terminal.
 
